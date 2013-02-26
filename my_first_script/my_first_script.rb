@@ -4,3 +4,4 @@ age = "92"
 
 puts first_name + " " + last_name + " is " + age
 puts "IT'S A TRAP"
+puts "puts the lotion in the basket"
